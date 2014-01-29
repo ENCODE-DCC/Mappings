@@ -1,0 +1,35 @@
+ENCODE2_dbxref_list	assay_name	OBI_dbxref
+DnaseSeq	DNase-seq	OBI:0001853
+DnaseDgf	DNase-seq	OBI:0001853
+FaireSeq	FAIRE-seq	OBI:0001859
+RipSeq	RIP-seq	OBI:0001857
+MethylWgbs	Shotgun Bisulfite-seq	OBI:0001863
+MethylRrbs	RRBS	OBI:0001862
+DnaPet	DNA-PET	OBI:0001849
+RnaPet	RNA-PET	OBI:0001850
+ChiaPet	ChIA-PET	OBI:0001848
+RnaSeq	RNA-seq	OBI:0001271
+ChipSeq	ChIP-seq	OBI:0000716
+MethylArray	Methyl Array	OBI:0001332
+Methyl450	Methyl Array	OBI:0001332
+Methyl27	Methyl Array	OBI:0001332
+5C	5C	OBI:0001919
+RepliSeq	Repli-seq	OBI:0001920
+RipTiling	RIP-chip	OBI:0001918
+RipGeneSt	RIP-chip	OBI:0001918
+RepliChip	Repli-chip	OBI:0001915
+Nucleosome	MNase-seq	OBI:0001924
+RipChip	RIP-chip	OBI:0001918
+RnaChip	RNA Array	OBI:0001463
+AffyExonArray	RNA Array	OBI:0001463
+Cage	CAGE	OBI:0001674
+Genotype	Genotype	OBI:0001393
+MethylSeq	MRE-seq	OBI:0001861
+Proteogenomics	Proteogenomics	OBI:0001923
+NRE	NRE	NTR:0000623
+Switchgear	Switchgear	NTR:0000612
+Orchid		ANALYSIS
+Gencode		ANALYSIS
+Mapability		ANALYSIS
+Bip		ANALYSIS
+Combined		ANALYSIS
