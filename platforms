@@ -1,0 +1,12 @@
+encode2_dbxrefs	term_id	term_name	uuid
+454_GS_FLX	OBI:0000702	Roche 454 Genome Sequencer FLX	616db2ff-a1c3-4c4f-b0de-9ea11c825b82
+GPL10989	OBI:0002009	Mouse 3x720K Whole Genome CGH Tiling Array	43efa2fa-f23f-4692-b76a-f3b02ff42d74
+Illumina_GA2	OBI:0000703	Illumina Genome Analyzer II	9ab7d195-c2d9-45ef-aed5-1d39ba77240b
+Illumina_GA2e	NTR:0000603	Illumina Genome Analyzer IIe	025b43fc-ff16-4dfb-8ec8-b7b9c79380a2
+GPL13190	OBI:0002011	Human 2.1M Whole-Genome CGH Tiling Array v2.0	700d6a4b-12da-401b-8cd3-d6675c1f22e4
+GPL14965	OBI:0002010	Human 3x720K Whole Genome CGH Tiling Array	e6230c01-4e11-4e0c-b821-d05b0d33dd92
+GPL9156	OBI:0002008	Mouse 385K Whole Genome CGH Tiling Array	6633c117-6bc1-4c0e-be26-a3aa4d500a7d
+Methyl450	OBI:0002004	Methylation 450K BeadChip	bdfd8a33-4f14-4242-b6d5-ad198d4225f8
+AB_SOLiD_3.5	OBI:0000696	Applied Biosystems SOLiD System 3 Plus	da150a82-63cd-4471-ba3e-ffe7ca96bcda
+Illumina_HiSeq_2000	OBI:0002001	HiSeq 2000	03a96eaf-75da-44e2-b4f6-e349e8c3655e
+Illumina_GA2x	OBI:0002000	Genome Analyzer IIx	7efe9ddc-bbe6-457d-bc98-f8bac2478bda
